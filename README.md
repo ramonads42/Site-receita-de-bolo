@@ -17,8 +17,10 @@ site-pessoal/
 ├── index.html
 ```
 
-Este site foi criado usando HTML, CSS e JavaScript, em Visual Studio Code.
+##Desenvolvimento
 ```
+Este site foi criado usando HTML, CSS e JavaScript, em Visual Studio Code.
+
 Para modificar o site:
 
 Abra o projeto no Visual Studio Code.
