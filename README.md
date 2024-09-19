@@ -7,8 +7,11 @@ Este repositório contém o código-fonte do meu site pessoal.
 ```plaintext
 site-pessoal/
 │
-├── index.html
-├── styles/
-│   └── style.css
+├── CSS/
+│   └── css
+│        └── style.css
+├── foto/
+│   └── bolo.jpg
 └── scripts/
-    └── main.js
+│   └── script.js
+├── index.html
