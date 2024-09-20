@@ -25,7 +25,7 @@ site-pessoal/
 | CSS                   | 
 | JavaScript            | 
 | Visual Studio Code    | 
-```
+
  
 
 - Para modificar o site:
@@ -37,4 +37,4 @@ site-pessoal/
  - Modificar o estilo: Abra o arquivo styles.css. Nele, você pode ajustar cores, tamanhos de fontes e outros estilos visuais do site.
 
  - Adicionar funcionalidades: Para implementar novas funcionalidades ou interações, modifique o arquivo script.js.
-```
+
