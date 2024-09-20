@@ -1,8 +1,8 @@
-# Site Receita de Bolo
+# 1. Descrição
 
-Este repositório contém o código-fonte do meu site de receita de bolo.
+Este repositório contém o código-fonte do meu site de receita de bolo. O site apresenta uma receita de bolo simples e inclui um botão para imprimir a receita diretamente da página.
 
-## 1. Estrutura
+## 2. Estrutura
 
 ```plaintext
 site-pessoal/
@@ -17,7 +17,7 @@ site-pessoal/
 ├── index.html
 ```
 
-## 2. Desenvolvimento
+## 3. Desenvolvimento
 
 | Recursos utilizados   |
 |-----------------------|
@@ -27,7 +27,7 @@ site-pessoal/
 | Visual Studio Code    | 
 
  
-## 3. Modificar
+## 4. Modificar
 - Para modificar o site:
 
   - Abra o projeto no Visual Studio Code.
