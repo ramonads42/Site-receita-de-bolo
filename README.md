@@ -1,8 +1,8 @@
-# Site Pessoal
+# Site Receita de Bolo
 
-Este repositório contém o código-fonte do meu site pessoal.
+Este repositório contém o código-fonte do meu site de receita de bolo.
 
-## Estrutura
+## 1. Estrutura
 
 ```plaintext
 site-pessoal/
@@ -17,7 +17,7 @@ site-pessoal/
 ├── index.html
 ```
 
-## Desenvolvimento
+## 2. Desenvolvimento
 
 | Recursos utilizados   |
 |-----------------------|
@@ -27,7 +27,7 @@ site-pessoal/
 | Visual Studio Code    | 
 
  
-
+## 3. Modificar
 - Para modificar o site:
 
   - Abra o projeto no Visual Studio Code.
