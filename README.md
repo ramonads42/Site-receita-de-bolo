@@ -30,11 +30,11 @@ site-pessoal/
 
 - Para modificar o site:
 
- - Abra o projeto no Visual Studio Code.
+  - Abra o projeto no Visual Studio Code.
 
- - Adicionar ou alterar texto: Edite o arquivo index.html. Aqui você pode atualizar o conteúdo textual do site.
+  - Adicionar ou alterar texto: Edite o arquivo index.html. Aqui você pode atualizar o conteúdo textual do site.
 
- - Modificar o estilo: Abra o arquivo styles.css. Nele, você pode ajustar cores, tamanhos de fontes e outros estilos visuais do site.
+  - Modificar o estilo: Abra o arquivo styles.css. Nele, você pode ajustar cores, tamanhos de fontes e outros estilos visuais do site.
 
- - Adicionar funcionalidades: Para implementar novas funcionalidades ou interações, modifique o arquivo script.js.
+  - Adicionar funcionalidades: Para implementar novas funcionalidades ou interações, modifique o arquivo script.js.
 
