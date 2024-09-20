@@ -19,12 +19,12 @@ site-pessoal/
 
 ## Desenvolvimento
 ```
-| *Recursos utilizados*   |
-|--------|
-| HTML | 
-| CSS | 
-| JavaScript | 
-| Visual Studio Code | 
+| Recursos utilizados   |
+|-----------------------|
+| HTML                  | 
+| CSS                   | 
+| JavaScript            | 
+| Visual Studio Code    | 
  
 
 Para modificar o site:
