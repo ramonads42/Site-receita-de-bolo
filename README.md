@@ -5,7 +5,7 @@ Este repositório contém o código-fonte do meu site de receita de bolo. O site
 ## 2. Estrutura
 
 ```plaintext
-site-pessoal/
+site-receita-de-bolo/
 │
 ├── CSS/
 │   └── css
