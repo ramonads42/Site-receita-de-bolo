@@ -1,0 +1,14 @@
+body{
+    color: black;
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+}
+
+img{
+    border-radius: 10%;
+    border: 5px solid white;
+}
+
+.center{
+    text-align: center;
+}
