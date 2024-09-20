@@ -14,6 +14,7 @@ site-receita-de-bolo/
 │   └── bolo.jpg
 └── scripts/
 │   └── script.js
+├── README.md
 ├── index.html
 ```
 
