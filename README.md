@@ -19,7 +19,13 @@ site-pessoal/
 
 ## Desenvolvimento
 ```
-Este site foi criado usando HTML, CSS e JavaScript, em Visual Studio Code.
+| *Recursos utilizados*   |
+|--------|
+| HTML | 
+| CSS | 
+| JavaScript | 
+| Visual Studio Code | 
+ 
 
 Para modificar o site:
 
